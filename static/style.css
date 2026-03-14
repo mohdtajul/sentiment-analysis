@@ -1,0 +1,30 @@
+
+
+body {
+
+background: lightskyblue;
+height: 100vh;
+
+}
+
+.sentiment-card {
+
+border-radius:20px;
+width:720px;
+
+box-shadow:0 15px 35px rgba(0,0,0,0.2);
+
+}
+
+textarea{
+
+resize:none;
+
+}
+
+.result-box{
+
+font-size:20px;
+font-weight:bold;
+
+}
